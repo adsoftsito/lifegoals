@@ -23,7 +23,7 @@ jobs:
 
       - name: list
         run: 
-           ls -la
+           ls -la dist
            
 
   
